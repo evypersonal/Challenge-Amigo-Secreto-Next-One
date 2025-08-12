@@ -18,13 +18,20 @@ O usuário poderá:
 
 ### 2. Validar entrada
 - Se o campo de texto estiver vazio, o sistema exibirá um alerta solicitando um nome válido.
+- Se o mesmo nome for inserido, também irá orientar sobre duplicidade.
 
 ### 3. Visualizar a lista
 - Todos os nomes inseridos são exibidos abaixo do campo de entrada.
 
-### 4. Sorteio aleatório
+### 4. Validar a lista
+- A lista deverá conter no minimo 2 nomes para que faça o sorteio.
+
+### 5. Sorteio aleatório
 - Ao clicar no botão **"Sortear Amigo"**, um nome da lista será selecionado aleatoriamente.
 - O resultado será exibido na tela.
+
+### 6. Limpar a lista
+- Ao sortear o amigo, o botão **"Limpar"**, irá aparecer na tela, possibilitando que faça uma nova lista para sorteio.
 
 ---
 
