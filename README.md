@@ -53,3 +53,6 @@ O usuário poderá:
 
 ## 🎯 Objetivo
 Praticar manipulação do DOM, eventos de clique, validação de formulários e lógica de seleção aleatória em JavaScript.
+
+## 🔗 Acesse o projeto
+[👉 Clique aqui para visualizar o projeto](https://evypersonal.github.io/Challenge-Amigo-Secreto-Next-One/)
