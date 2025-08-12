@@ -151,6 +151,7 @@ ul {
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    display: flex;
 }
 
 .button-draw img {
@@ -159,4 +160,27 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+/* Botão de limpar */
+.button-limpar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 16px;
+}
+
+.button-limpar img {
+    margin-right: 40px;
+}
+
+.button-limpar:hover {
+    background-color: var(--color-button-hover);
+}
+
+.display-none{
+    display: none;
 }
